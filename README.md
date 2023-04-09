@@ -1,2 +1,2 @@
-# devilobfus
+# obfuswboy
 Lua obfuscator
